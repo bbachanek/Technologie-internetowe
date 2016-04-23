@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Project</title>
+
+	<link rel="stylesheet" href="css/app.css">
+
+	<script src="js/modernizr.js"></script>
+    </head>
+<body>
+
+<nav class="top-bar" data-topbar role="navigation">
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="https://shining-inferno-3386.firebaseapp.com/">Technologie Internetowe</a></h1>
+    </li>
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <!-- Right Nav Section -->
+    <ul class="right">
+      <li class="active"><a href="https://shining-inferno-3386.firebaseapp.com/plan-zajec.html">Plan zajęć</a></li>
+      <li class="has-dropdown">
+        <a href="#">Źródła użyte w projekcie</a>
+        <ul class="dropdown">
+          <li><a href="http://laboratoria.net/pl/naturecom/Pierwsza%20odleg%C5%82a%20planeta%20widziana%20w%20kolorze%20jest%20niebieska;18705.html">Laboratorium.net</a></li>
+	  <li><a href="http://nauka.newsweek.pl/nasa-najwieksze-zdjecie-galaktyki-andromedy,artykuly,355472,1.html">Nauka.newsweek.pl</a></li>
+	 <li><a href="https://pl.wikipedia.org/wiki/Wszech%C5%9Bwiat">Wikipedia.org</a></li>
+	  <li><a href="https://pixabay.com/">Pixabay.com</a></li>
+        </ul>
+      </li>
+    </ul>
+
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li><a href="https://shining-inferno-3386.firebaseapp.com/markdown.html">Markdown</a></li>
+    </ul>
+    <ul class="left">
+      <li><a href="https://shining-inferno-3386.firebaseapp.com/wynik-yslow.html">Wynik YSlow</a></li>
+    </ul>
+    <ul class="left">
+      <li><a href="https://shining-inferno-3386.firebaseapp.com/mapa.html">Mapa</a></li>
+    </ul>
+<ul class="left">
+      <li><a href="https://shining-inferno-3386.firebaseapp.com/mathjax.html">MathJax</a></li>
+    </ul>
+  </section>
+</nav>
+<br />
+
+<div class="row" data-equalizer>
+  <div class="large-15 columns panel" data-equalizer-watch>
+<center><h3>Plan zajęć studiów niestacjonarnych I i II stopnia, 2016-04-23</h3></center><br />
+</div>
+</div>
+<div class="row" data-equalizer>
+  <div class="large-15 columns panel" data-equalizer-watch>
+<center>Studia I stopnia, I rok</center><br />
+<div class="row">
+<div class="large-12 columns">
+<div class="callout">
+<table>
+  <thead>
+    <tr>
+      <th width="200">Godzina</th>
+      <th>Przedmiot</th>
+      <th width="150">Forma</th>
+      <th width="150">Prowadzący</th>
+      <th width="150">Grupa</th>
+      <th width="150">Sala</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8:00-11:15</td>
+      <td>Język angielski</td>
+      <td>-</td>
+      <td>mgr Henryk Grzelczak</td>
+      <td>1</td>
+      <td>310</td>
+    </tr>
+    <tr>
+      <td>8:00-11:15</td>
+      <td>Język angielski</td>
+      <td>-</td>
+      <td>mgr Zbigniew Wałowski</td>
+      <td>2</td>
+      <td>311</td>
+    </tr>
+    <tr>
+      <td>11:30-13:00</td>
+      <td>Algorytmiczna teoria grafów</td>
+      <td>wykład</td>
+      <td>dr Hanna Furmańczyk</td>
+      <td>1 i 2</td>
+      <td>audytorium 1</td>
+    </tr>
+    <tr>
+      <td>13:30-15:00</td>
+      <td>Algorytmiczna teoria grafów</td>
+      <td>ćwiczenia</td>
+      <td>dr Hanna Furmańczyk</td>
+      <td>2</td>
+      <td>310</td>
+    </tr>
+    <tr>
+      <td>13:30-15:00</td>
+      <td>Algebra liniowa</td>
+      <td>ćwiczenia</td>
+      <td>dr Marta Frankowska</td>
+      <td>1</td>
+      <td>311</td>
+    </tr>
+    <tr>
+      <td>15:15-16:45</td>
+      <td>Algorytmiczna teoria grafów</td>
+      <td>ćwiczenia</td>
+      <td>dr Hanna Furmańczyk</td>
+      <td>1</td>
+      <td>310</td>
+    </tr>
+    <tr>
+      <td>15:15-16:45</td>
+      <td>Algebra liniowa</td>
+      <td>ćwiczenia</td>
+      <td>dr Marta Frankowska</td>
+      <td>2</td>
+      <td>311</td>
+    </tr>
+    <tr>
+      <td>17:00-18:30</td>
+      <td>Algebra liniowa</td>
+      <td>wykład</td>
+      <td>dr Marta Frankowska</td>
+      <td>1 i 2</td>
+      <td>audytorium 1</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="row" data-equalizer>
+  <div class="large-15 columns panel" data-equalizer-watch>
+<center>Studia I stopnia, II rok</center><br />
+<div class="row">
+<div class="large-12 columns">
+<div class="callout">
+<table>
+  <thead>
+    <tr>
+      <th width="200">Godzina</th>
+      <th>Przedmiot</th>
+      <th width="150">Forma</th>
+      <th width="150">Prowadzący</th>
+      <th width="150">Grupa</th>
+      <th width="150">Sala</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00-11:30</td>
+      <td>Inżynieria oprogramowania</td>
+      <td>wykład+laboratorium</td>
+      <td>dr Robert Fidytek</td>
+      <td>-</td>
+      <td>51</td>
+    </tr>
+    <tr>
+      <td>11:45-13:15</td>
+      <td>Architektura komputerów</td>
+      <td>wykład+laboratorium</td>
+      <td>dr Robert Fidytek</td>
+      <td>-</td>
+      <td>51</td>
+    </tr>
+    <tr>
+      <td>13:45-16:00</td>
+      <td>Sieci komputerowe</td>
+      <td>laboratorium</td>
+      <td>dr inż. Jerzy Skurczyński</td>
+      <td>-</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td>13:45-16:00</td>
+      <td>Sieci komputerowe</td>
+      <td>wykład</td>
+      <td>dr inż. Jerzy Skurczyński</td>
+      <td>-</td>
+      <td>audytorium 2</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="row" data-equalizer>
+  <div class="large-15 columns panel" data-equalizer-watch>
+<center>Studia I stopnia, III rok</center><br />
+<div class="row">
+<div class="large-12 columns">
+<div class="callout">
+<table>
+  <thead>
+    <tr>
+      <th width="200">Godzina</th>
+      <th>Przedmiot</th>
+      <th width="150">Forma</th>
+      <th width="150">Prowadzący</th>
+      <th width="150">Grupa</th>
+      <th width="150">Sala</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8:15-9:45</td>
+      <td>Seminarium licencjackie</td>
+      <td>-</td>
+      <td>dr Włodzimierz Bzyl</td>
+      <td>-</td>
+      <td>327</td>
+    </tr>
+    <tr>
+      <td>8:15-9:45</td>
+      <td>Seminarium licencjackie</td>
+      <td>-</td>
+      <td>dr Robert Fidytek</td>
+      <td>-</td>
+      <td>51</td>
+    </tr>
+    <tr>
+      <td>10:00-12:15</td>
+      <td>Serwery baz danych</td>
+      <td>wykład</td>
+      <td>prof. UG dr hab. Tomasz Dzido</td>
+      <td>-</td>
+      <td>audytorium 2</td>
+    </tr>
+    <tr>
+      <td>12:30-14:45</td>
+      <td>Serwery baz danych</td>
+      <td>laboratorium</td>
+      <td>prof. UG dr hab. Tomasz Dzido</td>
+      <td>-</td>
+      <td>109</td>
+    </tr>
+    <tr>
+      <td>15:15-18:30</td>
+      <td>Rachunek prawdopodobieństwa i statystyka</td>
+      <td>wykład+ćwiczenia</td>
+      <td>dr hab. Rafał Filipów</td>
+      <td>-</td>
+      <td>227</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="row" data-equalizer>
+  <div class="large-15 columns panel" data-equalizer-watch>
+<center>Studia II stopnia, I rok</center><br />
+<center>uwaga: odrabianie zajęć z 21 maja br.<center><br />
+<div class="row">
+<div class="large-12 columns">
+<div class="callout">
+<table>
+  <thead>
+    <tr>
+      <th width="200">Godzina</th>
+      <th>Przedmiot</th>
+      <th width="150">Forma</th>
+      <th width="150">Prowadzący</th>
+      <th width="150">Grupa</th>
+      <th width="150">Sala</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8:15-9:45</td>
+      <td>Algorytmy kombinatoryczne (fakultet)</td>
+      <td>laboratorium</td>
+      <td>prof UG dr hab. Tomasz Dzido</td>
+      <td>-</td>
+      <td>109</td>
+    </tr>
+    <tr>
+      <td>10:00-12:15</td>
+      <td>Zaawansowane algorytmy</td>
+      <td>wykład</td>
+      <td>dr Janusz Dybizbański</td>
+      <td>-</td>
+      <td>209</td>
+    </tr>
+    <tr>
+      <td>12:30-14:45</td>
+      <td>Zaawansowane algorytmy</td>
+      <td>ćwiczenia</td>
+      <td>dr Janusz Dybizbański</td>
+      <td>-</td>
+      <td>209</td>
+    </tr>
+    <tr>
+      <td>15:15-16:45</td>
+      <td>Algorytmy kombinatoryczne (fakultet)</td>
+      <td>wykład</td>
+      <td>prof UG dr hab. Tomasz Dzido</td>
+      <td>-</td>
+      <td>audytorium 1</td>
+    </tr>
+    <tr>
+      <td>17:00-18:30</td>
+      <td>Algorytmy kombinatoryczne (fakultet)</td>
+      <td>laboratorium</td>
+      <td>prof UG dr hab. Tomasz Dzido</td>
+      <td>-</td>
+      <td>109</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row" data-equalizer>
+  <div class="large-30 columns panel" data-equalizer-watch>
+<center>Bartosz Bachanek 2016 © <class="active"><a href="https://shining-inferno-3386.firebaseapp.com/">Strona główna</a> - <a href="https://shining-inferno-3386.firebaseapp.com/plan-zajec.html">Plan zajęć</a> - <a href="https://shining-inferno-3386.firebaseapp.com/mapa.html">Mapa</a> - <a href="https://shining-inferno-3386.firebaseapp.com/markdown.html">Markdown</a> - <a href="https://shining-inferno-3386.firebaseapp.com/wynik-yslow.html">Wynik YSlow</a></center>
+ </div>
+</div>
+
+    </body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "name": "Projekt",
+  "authors": [
+    "bbachanek <bbachanek@sigma.ug.edu.pl>"
+  ],
+  "description": "Bartosz Bachanek",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "foundation": "^5.5.3"
+  },
+  "dependencies": {
+    "google-map": "GoogleWebComponents/google-map#^1.1.10"
+  }
+}
